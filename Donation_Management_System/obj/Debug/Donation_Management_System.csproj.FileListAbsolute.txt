@@ -1,0 +1,121 @@
+F:\c#\C# lab\Donation_Management_System\Donation_Management_System\bin\Debug\Donation_Management_System.exe.config
+F:\c#\C# lab\Donation_Management_System\Donation_Management_System\bin\Debug\Donation_Management_System.exe
+F:\c#\C# lab\Donation_Management_System\Donation_Management_System\bin\Debug\Donation_Management_System.pdb
+F:\c#\C# lab\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.csproj.AssemblyReference.cache
+F:\c#\C# lab\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.Dash.resources
+F:\c#\C# lab\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.Properties.Resources.resources
+F:\c#\C# lab\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.csproj.GenerateResource.cache
+F:\c#\C# lab\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.csproj.CoreCompileInputs.cache
+F:\c#\C# lab\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.exe
+F:\c#\C# lab\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.pdb
+F:\c#\Donation_Management_System-main\Donation_Management_System\Donation_Management_System\bin\Debug\Donation_Management_System.exe.config
+F:\c#\Donation_Management_System-main\Donation_Management_System\Donation_Management_System\bin\Debug\Donation_Management_System.exe
+F:\c#\Donation_Management_System-main\Donation_Management_System\Donation_Management_System\bin\Debug\Donation_Management_System.pdb
+F:\c#\Donation_Management_System-main\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.csproj.AssemblyReference.cache
+F:\c#\Donation_Management_System-main\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.Dash.resources
+F:\c#\Donation_Management_System-main\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.Properties.Resources.resources
+F:\c#\Donation_Management_System-main\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.csproj.GenerateResource.cache
+F:\c#\Donation_Management_System-main\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.csproj.CoreCompileInputs.cache
+F:\c#\Donation_Management_System-main\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.exe
+F:\c#\Donation_Management_System-main\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.pdb
+F:\c#\Donation Management System\Donation_Management_System\Donation_Management_System\bin\Debug\Donation_Management_System.exe.config
+F:\c#\Donation Management System\Donation_Management_System\Donation_Management_System\bin\Debug\Donation_Management_System.exe
+F:\c#\Donation Management System\Donation_Management_System\Donation_Management_System\bin\Debug\Donation_Management_System.pdb
+F:\c#\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.csproj.AssemblyReference.cache
+F:\c#\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.Dash.resources
+F:\c#\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.Login.resources
+F:\c#\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.Properties.Resources.resources
+F:\c#\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.csproj.GenerateResource.cache
+F:\c#\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.csproj.CoreCompileInputs.cache
+F:\c#\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.exe
+F:\c#\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.pdb
+F:\c#\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.Signup.resources
+F:\c#\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.DonerDashboardForm.resources
+F:\c#\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.VolunteerDashboardForm.resources
+F:\c#\Donation Management System\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.csproj.AssemblyReference.cache
+F:\c#\Donation Management System\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.Dash.resources
+F:\c#\Donation Management System\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.DonerDashboardForm.resources
+F:\c#\Donation Management System\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.Login.resources
+F:\c#\Donation Management System\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.Signup.resources
+F:\c#\Donation Management System\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.VolunteerDashboardForm.resources
+F:\c#\Donation Management System\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.csproj.GenerateResource.cache
+F:\c#\Donation Management System\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.exe
+F:\c#\Donation Management System\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.pdb
+F:\c#\Donation Management System\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.Properties.Resources.resources
+F:\c#\Donation Management System\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.csproj.CoreCompileInputs.cache
+F:\c#\Donation Management System\Donation Management System\Donation_Management_System\Donation_Management_System\bin\Debug\Donation_Management_System.exe.config
+F:\c#\Donation Management System\Donation Management System\Donation_Management_System\Donation_Management_System\bin\Debug\Donation_Management_System.exe
+F:\c#\Donation Management System\Donation Management System\Donation_Management_System\Donation_Management_System\bin\Debug\Donation_Management_System.pdb
+F:\c#\Donation Management System\Donation Management System\Donation Management System\Donation_Management_System\Donation_Management_System\bin\Debug\Donation_Management_System.exe.config
+F:\c#\Donation Management System\Donation Management System\Donation Management System\Donation_Management_System\Donation_Management_System\bin\Debug\Donation_Management_System.exe
+F:\c#\Donation Management System\Donation Management System\Donation Management System\Donation_Management_System\Donation_Management_System\bin\Debug\Donation_Management_System.pdb
+F:\c#\Donation Management System\Donation Management System\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.csproj.AssemblyReference.cache
+F:\c#\Donation Management System\Donation Management System\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.Dash.resources
+F:\c#\Donation Management System\Donation Management System\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.DonerDashboardForm.resources
+F:\c#\Donation Management System\Donation Management System\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.Login.resources
+F:\c#\Donation Management System\Donation Management System\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.Properties.Resources.resources
+F:\c#\Donation Management System\Donation Management System\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.Signup.resources
+F:\c#\Donation Management System\Donation Management System\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.VolunteerDashboardForm.resources
+F:\c#\Donation Management System\Donation Management System\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.csproj.GenerateResource.cache
+F:\c#\Donation Management System\Donation Management System\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.csproj.CoreCompileInputs.cache
+F:\c#\Donation Management System\Donation Management System\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.exe
+F:\c#\Donation Management System\Donation Management System\Donation Management System\Donation_Management_System\Donation_Management_System\obj\Debug\Donation_Management_System.pdb
+F:\c#\Donation Management System\Donation_Management_System\bin\Debug\Donation_Management_System.exe.config
+F:\c#\Donation Management System\Donation_Management_System\bin\Debug\Donation_Management_System.exe
+F:\c#\Donation Management System\Donation_Management_System\bin\Debug\Donation_Management_System.pdb
+F:\c#\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.csproj.AssemblyReference.cache
+F:\c#\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.Dash.resources
+F:\c#\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.DonerDashboardForm.resources
+F:\c#\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.Login.resources
+F:\c#\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.Properties.Resources.resources
+F:\c#\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.Signup.resources
+F:\c#\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.VolunteerDashboardForm.resources
+F:\c#\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.csproj.GenerateResource.cache
+F:\c#\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.csproj.CoreCompileInputs.cache
+F:\c#\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.exe
+F:\c#\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.pdb
+F:\c#\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.csproj.AssemblyReference.cache
+F:\c#\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.Dash.resources
+F:\c#\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.DonerDashboardForm.resources
+F:\c#\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.Login.resources
+F:\c#\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.Properties.Resources.resources
+F:\c#\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.Signup.resources
+F:\c#\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.VolunteerDashboardForm.resources
+F:\c#\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.csproj.GenerateResource.cache
+F:\c#\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.csproj.CoreCompileInputs.cache
+F:\c#\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.exe
+F:\c#\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.pdb
+F:\c#\Donation Management System last one\Donation Management System\Donation_Management_System\bin\Debug\Donation_Management_System.exe.config
+F:\c#\Donation Management System last one\Donation Management System\Donation_Management_System\bin\Debug\Donation_Management_System.exe
+F:\c#\Donation Management System last one\Donation Management System\Donation_Management_System\bin\Debug\Donation_Management_System.pdb
+E:\Donation Management System last one (2)\Donation Management System last one\Donation Management System\Donation_Management_System\bin\Debug\Donation_Management_System.exe.config
+E:\Donation Management System last one (2)\Donation Management System last one\Donation Management System\Donation_Management_System\bin\Debug\Donation_Management_System.exe
+E:\Donation Management System last one (2)\Donation Management System last one\Donation Management System\Donation_Management_System\bin\Debug\Donation_Management_System.pdb
+E:\Donation Management System last one (2)\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.csproj.AssemblyReference.cache
+E:\Donation Management System last one (2)\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.Admin_View.resources
+E:\Donation Management System last one (2)\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.AdminDetails.resources
+E:\Donation Management System last one (2)\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.Campaign_Details.resources
+E:\Donation Management System last one (2)\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.Campaigns_manage.resources
+E:\Donation Management System last one (2)\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.Dash.resources
+E:\Donation Management System last one (2)\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.DoCam.resources
+E:\Donation Management System last one (2)\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.DoFeedback.resources
+E:\Donation Management System last one (2)\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.Donation.resources
+E:\Donation Management System last one (2)\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.Donation_Record.resources
+E:\Donation Management System last one (2)\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.DonerDashboardForm.resources
+E:\Donation Management System last one (2)\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.DonorDetails.resources
+E:\Donation Management System last one (2)\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.DonorManagement.resources
+E:\Donation Management System last one (2)\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.FeedBack.resources
+E:\Donation Management System last one (2)\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.Login.resources
+E:\Donation Management System last one (2)\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.Properties.Resources.resources
+E:\Donation Management System last one (2)\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.Sector_Details.resources
+E:\Donation Management System last one (2)\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.Sector_Manage.resources
+E:\Donation Management System last one (2)\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.Signup.resources
+E:\Donation Management System last one (2)\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.Update_Profile.resources
+E:\Donation Management System last one (2)\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.VolDonation.resources
+E:\Donation Management System last one (2)\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.VolunteerDashboardForm.resources
+E:\Donation Management System last one (2)\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.VolunteerDetails.resources
+E:\Donation Management System last one (2)\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.VolunteerManagement.resources
+E:\Donation Management System last one (2)\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.csproj.GenerateResource.cache
+E:\Donation Management System last one (2)\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.csproj.CoreCompileInputs.cache
+E:\Donation Management System last one (2)\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.exe
+E:\Donation Management System last one (2)\Donation Management System last one\Donation Management System\Donation_Management_System\obj\Debug\Donation_Management_System.pdb
