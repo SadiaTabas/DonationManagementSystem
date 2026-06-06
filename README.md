@@ -175,21 +175,7 @@ Stores volunteer campaign assignments:
 * CampaignId
 * AssignmentDate
 
----
-
-## Technology Stack
-
-### Frontend
-
-* HTML5
-* CSS3
-* Bootstrap
-* JavaScript
-
-### Backend
-
-* C#
-* ASP.NET Framework / Windows Forms
+ 
 
 ### Database
 
